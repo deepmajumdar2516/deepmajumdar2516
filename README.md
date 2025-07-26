@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Deep Majumdar
-**A passionate Data Science Engineer || DevOps Engineer **
+**A passionate Data Science Engineer || DevOps Engineer || Full Stack Developer || Python Enthusiast || AI/ML Learner || Cloud Practitioner (AWS) || MLOps Beginner || Problem Solver || Open Source Contributor || Tech Explorer **
 
 Email Me 👉 ✉️ **deepmajumdar2516@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
