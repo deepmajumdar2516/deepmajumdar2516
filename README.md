@@ -1,9 +1,20 @@
-# 💫 Hi 👋, I'm Deep Majumdar
-**A passionate Data Science Engineer || DevOps Engineer || Full Stack Developer || Python Enthusiast || AI/ML Learner || Cloud Practitioner (AWS) || MLOps Beginner || Problem Solver || Open Source Contributor || Tech Explorer **
+<!-- Profile Header -->
+<h1 align="center">💫 Hi there, I'm Deep Majumdar! 👋</h1>
+<h3 align="center">
+A passionate 🚀 Data Science Engineer | DevOps Engineer | Full Stack Developer | Python Enthusiast | AI/ML Learner | Cloud Practitioner (AWS) | MLOps Beginner | Problem Solver | Open Source Contributor | Tech Explorer
+</h3>
 
-Email Me 👉 ✉️ **deepmajumdar2516@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<p align="center">
+📩 <b>Email Me:</b> <a href="mailto:deepmajumdar2516@gmail.com">deepmajumdar2516@gmail.com</a><br>
+🤝 <b>Open to:</b> Collaboration / Project / Internship / Hackathons
+</p>
 
-- 🔭 **I’m currently working on:** NexMeet, an AI-powered virtual interaction platform.
+---
+
+### 🔭 I’m Currently Working On:
+- 🚀 **NexMeet** – an AI-powered virtual interaction platform for seamless collaboration.
+
+---
 <!--  - 🌱 **I’m currently learning:** Enter your tech here  <!--  -->
 <!--  - 👯 **I’m looking to collaborate on:** Enter your project name and info  <!--  -->
 <!--  - 🤔 **I’m looking for help with:** Your project here <!--  -->
@@ -32,6 +43,11 @@ Email Me 👉 ✉️ **deepmajumdar2516@gmail.com** For Collaboration/Project or
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+## 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepmajumdar2516&theme=react-dark&hide_border=true&area=true" />
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=deepmajumdar2516&limit=5&theme=dark&combine_all_yearly_contributions=true)
